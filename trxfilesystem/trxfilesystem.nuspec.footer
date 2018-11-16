@@ -1,0 +1,9 @@
+  
+  </metadata>
+  <files>
+    <file src="README.md" target="tools\README_trxfilesystem.md" />
+    <file src="..\LICENSE.md" target="tools\LICENSE_trxfilesystem.md" />
+    <file src="bin\Release\netcoreapp2.1\publish\" target="tools/netcoreapp2.1/any/" />
+  </files>
+</package>
+<!-- vim: set expandtab ts=2 sw=2:  -->

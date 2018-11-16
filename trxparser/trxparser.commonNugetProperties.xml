@@ -1,0 +1,7 @@
+<authors>hannasm</authors>
+<owners>hannasm</owners>
+<licenseUrl>https://github.com/hannasm/TRXToolsDotNet/blob/master/LICENSE</licenseUrl>
+<projectUrl>https://github.com/hannasm/TRXToolsDotNet/trxparser</projectUrl>
+<requireLicenseAcceptance>false</requireLicenseAcceptance>
+<description>A barebones object model for parsing and manipulating trx files.</description>
+<copyright>Copyright 2018</copyright>

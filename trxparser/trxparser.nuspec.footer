@@ -1,0 +1,11 @@
+  
+  </metadata>
+  <files>
+    <file src="README.md" target="content\README_trxparser.md" />
+    <file src="..\LICENSE.md" target="content\LICENSE_trxparser.md" />
+    <file src="bin\Release\netstandard2.0\*.dll" target="lib\netstandard2.0" />
+    <file src="bin\Release\netstandard2.0\*.pdb" target="lib\netstandard2.0" />
+    <file src="bin\Release\netstandard2.0\*.xml" target="lib\netstandard2.0" />
+  </files>
+</package>
+<!-- vim: set expandtab ts=2 sw=2:  -->

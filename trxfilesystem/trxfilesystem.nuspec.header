@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>trxfilesystem</id>
+    <packageType>
+      <packageType name="DotnetTool" />
+    </packageType>

@@ -1,0 +1,7 @@
+<authors>hannasm</authors>
+<owners>hannasm</owners>
+<licenseUrl>https://github.com/hannasm/TRXToolsDotNet/blob/master/LICENSE</licenseUrl>
+<projectUrl>https://github.com/hannasm/TRXToolsDotNet/trxfilesystem</projectUrl>
+<requireLicenseAcceptance>false</requireLicenseAcceptance>
+<description>Extract contents of a trx file to its constitutent pieces as files in the filesystem</description>
+<copyright>Copyright 2018</copyright>

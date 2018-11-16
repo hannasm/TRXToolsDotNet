@@ -1,0 +1,28 @@
+﻿<?xml version="1.0"?>
+<package >
+<metadata>
+<id>trxfilesystem</id>
+<packageType>
+<packageType name="DotnetTool" />
+</packageType>
+<authors>hannasm</authors>
+<owners>hannasm</owners>
+<licenseUrl>https://github.com/hannasm/TRXToolsDotNet/blob/master/LICENSE</licenseUrl>
+<projectUrl>https://github.com/hannasm/TRXToolsDotNet/trxfilesystem</projectUrl>
+<requireLicenseAcceptance>false</requireLicenseAcceptance>
+<description>Extract contents of a trx file to its constitutent pieces as files in the filesystem</description>
+<copyright>Copyright 2018</copyright>
+<version>
+0.5.0
+</version>
+<releaseNotes>
+* 0.5 - initial release, basic functionality implemented
+</releaseNotes>
+</metadata>
+<files>
+<file src="README.md" target="tools/README_trxfilesystem.md" />
+<file src="../LICENSE.md" target="tools/LICENSE_trxfilesystem.md" />
+<file src="bin/Release/netcoreapp2.1/publish/" target="tools/netcoreapp2.1/any/" />
+</files>
+</package>
+<!-- vim: set expandtab ts=2 sw=2:  -->
