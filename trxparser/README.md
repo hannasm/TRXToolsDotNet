@@ -2,6 +2,9 @@
 
 This is a very lightweight and low level library for parsing trx files (the ones that are created by the mstest unit test runner). It provides some basic functions to read and write a valid trx object model.
 
+This package is available on nuget at: https://www.nuget.org/packages/trxparser
+
+The source for this package is available on github at: https://github.com/hannasm/TRXToolsDotNet/tree/master/trxparser/
 
 ## Credits
 
